@@ -1,5 +1,5 @@
 package com.ecommerce.authMicroservice.service;
 
-public class AuthService {
+public interface AuthService {
 
 }
